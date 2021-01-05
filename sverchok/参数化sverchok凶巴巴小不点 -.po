@@ -1,0 +1,273 @@
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-06 16:26+0800\n"
+"PO-Revision-Date: 2020-07-08 22:58+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: 文件名：代码行数
+#, fuzzy
+msgid "Random Vector"
+msgstr "随机矢量"
+
+msgid "Pentagon Tiler"
+msgstr "多边形平面"
+
+msgid "WFC Texture"
+msgstr "WFC算法（图像）"
+
+msgid "Line (Curve)"
+msgstr "线（曲线）"
+
+msgid "Circle (Curve)"
+msgstr "圆（曲线）"
+
+msgid "Ellipse (Curve)"
+msgstr "椭圆（曲线）"
+
+msgid "Rounded Rectanale"
+msgstr "倒圆角"
+
+msgid "Arc 3pt (Curve)"
+msgstr "圆弧3pt（曲线）"
+
+msgid "Arc Start / End / Tangent"
+msgstr "圆弧起点/终点/切线"
+
+msgid "Poly Arc"
+msgstr "聚弧"
+
+msgid "Curve Formula"
+msgstr "曲线公式"
+
+msgid "Rounded Rectangle"
+msgstr "圆角矩形"
+
+msgid "Fillet Polyline"
+msgstr "圆角折线"
+
+msgid "Bezier Spline (Curve)"
+msgstr "Bezier样条(曲线) "
+
+msgid "Kinked Curve"
+msgstr "扭结曲线"
+
+msgid "Tangents Curve"
+msgstr "切线曲线"
+
+msgid "Apply Field to Curve"
+msgstr "将场应用于曲线"
+
+msgid "Cast Curve"
+msgstr "投射曲线"
+
+msgid "Offset Curve on Surface"
+msgstr "曲面偏移曲线 "
+
+msgid "Iso U/V Curve"
+msgstr "曲面轮廓U / V曲线 "
+
+msgid "Curve on Surface"
+msgstr "曲面绘制曲线 "
+
+msgid "Curve Lerp"
+msgstr "曲线间线性插值 "
+
+msgid "Concat Curves"
+msgstr "串联曲线 "
+
+msgid "Blend Curves"
+msgstr "混合曲线 "
+
+msgid "Reparametrize Curve"
+msgstr "重新定义（T值区间）曲线 "
+
+msgid "Surface Boundary"
+msgstr "曲面边界线 "
+
+msgid "Curve Endpoints"
+msgstr "曲线端点 "
+
+msgid "Curve Segment"
+msgstr "曲线修剪 "
+
+msgid "Curve Domain"
+msgstr "输出曲线T值 "
+
+msgid "Extend Curve"
+msgstr "延长（多规律）曲线 "
+
+msgid "Split Curve"
+msgstr "分割曲线 "
+
+msgid "Curve Frame"
+msgstr "曲线T值位置运动趋向 "
+
+msgid "Curve Curvature"
+msgstr "曲线曲率 "
+
+msgid "Curve Torsion"
+msgstr "曲线扭转值 "
+
+msgid "Curve Zero-Twist Frame"
+msgstr "曲线T位置运动趋向（考虑整体） "
+
+msgid "Curve Length Parameter"
+msgstr "计算曲线自然长度均匀点 "
+
+msgid "Naturally Parametrized Curve"
+msgstr "自然（均匀点）参数化曲线 "
+
+msgid "Evaluate Curve"
+msgstr "评估曲线 "
+
+msgid "Plane (Surface)"
+msgstr "平面 "
+
+msgid "Sphere (Surface)"
+msgstr "球面 "
+
+msgid "Surface Formula"
+msgstr "曲面公式 "
+
+msgid "Surface from Curves"
+msgstr "曲线生成曲面 "
+
+msgid "Revolution Surface"
+msgstr "旋转轮廓线"
+
+msgid "Taper Sweep"
+msgstr "轮廓扫描路径 "
+
+msgid "Extrude Curve along Vector"
+msgstr "沿矢量拉伸曲线 "
+
+msgid "Extrude Curve Along Curve"
+msgstr "沿曲线拉伸曲线 "
+
+msgid "Extrude to Point"
+msgstr "挤出到点 "
+
+msgid "Pipe (Surface)"
+msgstr "线成管道 "
+
+msgid "Linear Surface"
+msgstr "曲线线性成面 "
+
+msgid "Surface Lerp"
+msgstr "曲面间线性插值（形态键） "
+
+msgid "Surface from Four Curves"
+msgstr "四曲线成曲面 "
+
+msgid "Apply Field to Surface"
+msgstr "将场应用于曲面 "
+
+msgid "Surface Domain"
+msgstr "曲面域值（面UV输出） "
+
+msgid "Surface Subdomain"
+msgstr "曲面域控制（面UV范围控制） "
+
+msgid "Flip Surface"
+msgstr "翻转面 "
+
+msgid "Swap Surface U/V"
+msgstr "交换曲面U / V方向 "
+
+msgid "Reparametrize Surface"
+msgstr "重新设定曲面（UV范围） "
+
+msgid "Surface Frame"
+msgstr "曲面（UV定义位置）运动趋势 "
+
+msgid "Surface Gauss Curvature"
+msgstr "曲面高斯曲率 "
+
+msgid "Surface Curvature"
+msgstr "曲面曲率 "
+
+msgid "Tessellate & Trim Surface"
+msgstr "晶格切割和曲线修剪 "
+
+msgid "Adaptive Tessellate Surface"
+msgstr "自适应曲面细分 "
+
+msgid "Evaluate Surface"
+msgstr "评估曲面 "
+
+msgid "Coordinate Scalar Field"
+msgstr "坐标标量场 "
+
+msgid "Scalar Field Formula"
+msgstr "标量场公式 "
+
+msgid "Vector Field Formula"
+msgstr "矢量场公式 "
+
+msgid "Compose Vector Field"
+msgstr "设置矢量场 "
+
+msgid "Decompose Vector Field"
+msgstr "分解矢量场 "
+
+msgid "Distance from a point"
+msgstr "按距点的距离生成标量场 "
+
+msgid "Attractor Field"
+msgstr "引力场 "
+
+msgid "Image Field"
+msgstr "图像场 "
+
+msgid "Voronoi Field"
+msgstr "沃罗诺伊球场 "
+
+msgid "Noise Vector Field"
+msgstr "噪声矢量场 "
+
+msgid "Scalar Field Math"
+msgstr "标量场数学 "
+
+msgid "Join Scalar Fields"
+msgstr "加入标量场 "
+
+msgid "Vector Field Math"
+msgstr "矢量场数学 "
+
+msgid "Field Differential Operation"
+msgstr "场微分（近似）计算（步长） "
+
+msgid "Scalar Field Curvature"
+msgstr "标量场曲率 "
+
+msgid "Bend Along Curve Field"
+msgstr "沿曲线场弯曲 "
+
+msgid "Bend Along Surface Field"
+msgstr "沿曲面场弯曲 "
+
+msgid "Evaluate Scalar Field"
+msgstr "评估标量场 "
+
+msgid "Evaluate Vector Field"
+msgstr "评估矢量场 "
+
+msgid "Apply Vector Field"
+msgstr "应用矢量场 "
+
+msgid "Vector Field Graph"
+msgstr "生成矢量场图 "
+
+msgid "Vector Field Lines"
+msgstr "生成矢量场线 "
+
