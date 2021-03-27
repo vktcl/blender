@@ -1,1 +1,1 @@
-# sverchok节点的简单汉化
+# sverchok中节点名称的简单汉化
